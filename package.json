@@ -1,0 +1,12 @@
+{ 
+  "name" : "search-acceptance",
+  "version" : "0.1.2",
+  "dependencies" : {
+    "chai" : "1.7.2",
+    "coffee-script": "1.6.3",
+    "webdriverjs": "0.7.14"
+  },
+  "scripts": {
+    "test": "mocha -R xunit | grep '^<' >> TestReport.xml"
+  }
+}
