@@ -13,24 +13,7 @@ else
     desiredCapabilities:
       browserName: 'chrome'
       # browserName: 'firefox'
-      # browserName: 'safari'
-      # browserName: 'phantomjs'
-      # browserName: 'internet explorer'
-      # version: '9'
-      # version: '10'
-      # platform: 'Windows 7'
-      # platform: 'Windows 8'
-      # platform: 'OS X 10.6'
-      # platform: 'OS X 10.8'
-      # "screen-resolution": "1280x1024"
-      # "screen-resolution": "800x600" # beta - Windows 8?
-      # "device-orientation": "landscape" # or portrait
-      tags: ['search']
       name: 'Allsite'
-    # host: 'ondemand.saucelabs.com'
-    # user: "saucey"
-    # key: "saucekey"
-    # port: 80
 
 test = 
   root: "https://familysearch.org"
