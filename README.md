@@ -2,7 +2,7 @@
 
 ### Introduction
 
-[Mocha](http://visionmedia.github.io/mocha/) is a fun way to organize and run your tests.  We are using [webdriverjs](https://github.com/camme/webdriverjs/blob/master/README.md) to drive front-end automation tests.  The tests can run locally with the selenium standalone jar running, or they can run on [saucelabs](https://saucelabs.com) by changing the configuration.
+[Mocha](http://mochajs.org/) is a fun way to organize and run your tests.  We are using [webdriverjs](https://github.com/camme/webdriverjs/blob/master/README.md) to drive front-end automation tests.  The tests can run locally with the selenium standalone jar running, or they can run on [saucelabs](https://saucelabs.com) by changing the configuration.
 
 ### Getting started
 
